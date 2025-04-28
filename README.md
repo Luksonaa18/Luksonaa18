@@ -9,6 +9,7 @@ Full-stack Developer
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  krakadili
+* 🕺  Portfolio:https://portfoliocv-eta.vercel.app
 
 ### Skills
 
