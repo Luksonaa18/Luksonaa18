@@ -6,7 +6,7 @@ Full-stack Developer
 
 * 🌍  I'm based in Georgia
 * ✉️  You can contact me at [lukazhozhadze53@gmail.com](mailto:lukazhozhadze53@gmail.com)
-* 🧠  I'm learning React
+* 🧠  I'm Full-Stack-Developer
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  krakadili
 * 🕺  Portfolio:https://portfoliocv-eta.vercel.app
