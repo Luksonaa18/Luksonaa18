@@ -9,7 +9,7 @@ Full-stack Developer
 * 🧠  I'm Full-Stack-Developer
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  krakadili
-* 🕺  Portfolio:https://portfoliocv-eta.vercel.app
+* 🕺  Portfolio:https://newportf-ten.vercel.app
 
 ### Skills
 
